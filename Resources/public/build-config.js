@@ -94,7 +94,11 @@ var CKBUILDER_CONFIG = {
 		'listblock' : 1,
 		'menubutton' : 1,
 		'autogrow' : 1,
-		'wordcount' : 1
+		'wordcount' : 1,
+		'htmlbuttons' : 1,
+		'codemirror' : 1,
+		'mediaembed' : 1,
+		'oembed' : 1
 	},
 	languages : {
 		'af' : 1,
