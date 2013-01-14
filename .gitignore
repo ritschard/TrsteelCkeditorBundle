@@ -1,3 +1,5 @@
 Tests/vendor/*
 Tests/cache/*
 Tests/logs/*
+.DS_Store
+._DS_Store
